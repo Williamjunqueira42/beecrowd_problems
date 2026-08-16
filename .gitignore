@@ -1,0 +1,9 @@
+# Ignora todos os arquivos por padrão
+*
+
+# Libera apenas o arquivo .gitignore, códigos em C e documentação
+!/.gitignore
+!*.c
+!*.h
+!*.md
+!*/
